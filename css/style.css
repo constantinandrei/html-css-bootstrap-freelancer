@@ -18,9 +18,12 @@ nav {
 }
 
 .jumbo {
-    background-color: #3BBC9C;
     padding-top: 2rem;
     padding-bottom: 2rem;
+}
+
+.bg-jumbo {
+    background-color: #3BBC9C;
 }
 
 .profile-container img {
@@ -62,4 +65,25 @@ nav {
 .portfolio-card .img-container img {
     width: 100%;
     border-radius: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn.bg-jumbo {
+    border: 1px solid white;
+    color: white;
+    width: 140px;
+    line-height: 35px;
+}
+
+.btn.bg-jumbo:hover {
+    background-color: #2e574d;
+}
+
+.dwn-icon {
+    width: 25px;
+    display: inline-block;
+    float: left;
 }
