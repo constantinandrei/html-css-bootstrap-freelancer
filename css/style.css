@@ -97,3 +97,41 @@ nav {
     border-radius: 0;
     border-bottom: 1px solid #ced4da;
 }
+
+.foot-1 {
+    background-color: #3A546D;
+}
+
+.foot-2 {
+    background-color: #2C3E50;
+}
+
+.green-color {
+    color: #3BBC9C;
+}
+
+.social-container {
+    width: 40px;
+    padding: 0.5rem;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    border: 1px solid white;
+    display: inline-block;
+}
+.social-icon {
+    width: 20px;
+}
+
+.social-icon.fb {
+    width: 12px;
+}
+
+.social-icon.google {
+    width: 25px;
+}
+
+.social-width {
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+}
