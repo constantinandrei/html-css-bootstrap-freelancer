@@ -1,0 +1,16 @@
+nav {
+    background-color: #055160;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.color-white {
+    color: white;
+}
+
+.hamburger-container {
+    width: 50px;
+    padding: 4px 10px;
+    border: 1px solid white;
+    border-radius: 6px;
+}
