@@ -14,3 +14,35 @@ nav {
     border: 1px solid white;
     border-radius: 6px;
 }
+
+.jumbo {
+    background-color: #3BBC9C;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.profile-container img {
+    width: 100%;
+}
+
+.profile-container {
+    max-width: 220px;
+    margin-bottom: 2rem;
+}
+
+.star-and-line-container {
+    width: 75%;
+    max-width: 500px;
+    margin-bottom: 1rem;
+}
+
+.line-bf-star {
+    height: 2px;
+    width: 100%;
+    background-color: white;
+}
+
+.star-container {
+    width: 60%;
+    min-width: 30px;
+}
