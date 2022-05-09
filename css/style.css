@@ -89,7 +89,6 @@ nav {
 .dwn-icon {
     width: 25px;
     display: inline-block;
-    float: left;
 }
 
 .border-bottom {
@@ -135,3 +134,4 @@ nav {
     max-width: 300px;
     margin: auto;
 }
+
